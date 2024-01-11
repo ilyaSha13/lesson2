@@ -1,0 +1,15 @@
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/bin/Debug/net6.0/Task1
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/bin/Debug/net6.0/Task1.dll
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.dll
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/ilyasharygin/Desktop/CSHARP01/Lesson2/Task1/obj/Debug/net6.0/ref/Task1.dll
